@@ -7,6 +7,15 @@ PARA CRIAR O REPOSITÓRIO:
 -Escolher nome e se será publico/privado
 
 
+PRIMEIRO ACESSO:
+
+ git config --global user.email "afonso.henriques@tagme.com.br"
+ git config --global user.name "Afonso-devf"
+
+GERAR TOKEN
+configurações> configuração de desenvolvedor> token classico
+
+
 BAIXAR REPOSITÓRIO:
 
 Abre o local onde deseja clonar o projeto!
@@ -14,5 +23,12 @@ Com botão direito do mouse seleciona 'git bash here'
 
 - git clone URL
 
-FAZER ALTERAÇÃO
+FAZER ALTERAÇÃO:
+
+- dentro da pasta do repositório abrir o gitbash
+
+VERIFICAR AS ALTERAÇÕES: git status
+PREPARAR AS ALTERAÇÕES: git add .
+NOMEAR MEU COMMIT: git commit -m "nome-do-commit"
+SUBIR AS ALTERAÇÕES: git push
 
