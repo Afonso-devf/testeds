@@ -1,0 +1,18 @@
+GIT GITHUB
+https://git-scm.com/downloads INSTALAR O GIT
+https://github.com/
+
+PARA CRIAR O REPOSITÓRIO:
+-Na tela inicial(Dashboard): New
+-Escolher nome e se será publico/privado
+
+
+BAIXAR REPOSITÓRIO:
+
+Abre o local onde deseja clonar o projeto!
+Com botão direito do mouse seleciona 'git bash here'
+
+- git clone URL
+
+FAZER ALTERAÇÃO
+
